@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => {
         host: '0.0.0.0',
       },
       plugins: [react()],
-      base: '/', // <--- REMPLACEZ par le nom exact de votre projet sur GitHub
+      base: '/H4k21Shx0.github.io', // <--- REMPLACEZ par le nom exact de votre projet sur GitHub
       define: {
         'process.env.API_KEY': JSON.stringify(env.GEMINI_API_KEY),
         'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY)
