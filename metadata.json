@@ -1,5 +1,0 @@
-{
-  "name": "DevPortfolio Pro",
-  "description": "A high-end, single-page developer portfolio featuring a sticky glassmorphism navbar, animated hero section, timeline experience, project roadmap with modals, and a terminal-style contact form. Built with React, Tailwind CSS, and Framer Motion.",
-  "requestFramePermissions": []
-}
